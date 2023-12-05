@@ -1,0 +1,1 @@
+sudo su && apt install git -y && cd && cd /var/www/ && git clone https://github.com/RizzTOD/enigma-pterodactyl-theme && ls && cd enigma-pterodactyl-theme && mv pterodactyl.zip ../ && unzip pterodactyl.zip
